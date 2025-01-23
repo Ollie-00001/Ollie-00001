@@ -1,5 +1,13 @@
-## Hi there, I'm Yegor 👋
-
+## 
+<div id="header" align="center">
+    <h1>Hello there! I'm Yegor</h1>
+    <h3>Just a beginner web developer from Tomsk</h3>
+</div>
+<div id="socials" align="center">
+    <a href="vkontakte-url">
+      <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/m__ega">
+    </a>
+</div>
 <!--
 **Ollie-00001/Ollie-00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
