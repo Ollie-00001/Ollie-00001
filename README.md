@@ -1,13 +1,20 @@
-## 
+#
 <div id="header" align="center">
     <h1>Hello there! I'm Yegor</h1>
     <h3>Just a beginner web developer from Tomsk</h3>
 </div>
+
+## You can contact me via the links below
 <div id="socials" align="center">
     <a href="https://vk.com/m__ega">
         <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Vkontakte">
     </a>
 </div>
+
+### About me
+🔭 I’m currently working on a photographer website project
+🌱 I’m currently learning Django
+⚡ Fun fact: I have got a cat and his name is 馒头 (Steamed Bun)
 <!--
 **Ollie-00001/Ollie-00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
