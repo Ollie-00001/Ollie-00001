@@ -12,9 +12,9 @@
 </div>
 
 ### About me
-🔭 I’m currently working on a photographer website project
-🌱 I’m currently learning Django
-⚡ Fun fact: I have got a cat and his name is 馒头 (Steamed Bun)
+- 🔭 I’m currently working on a photographer website project
+- 🌱 I’m currently learning Django
+- ⚡ Fun fact: I have got a cat and his name is 馒头 (Steamed Bun)
 <!--
 **Ollie-00001/Ollie-00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
