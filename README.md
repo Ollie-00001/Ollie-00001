@@ -4,7 +4,6 @@
     <h3>Just a beginner web developer from Tomsk</h3>
 </div>
 <div id="socials" align="center">
-    <h2>You can reach me via the links below</h2>
     <a href="https://vk.com/m__ega">
         <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="Vkontakte">
     </a>
