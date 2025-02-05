@@ -1,8 +1,8 @@
 #
 <div id="header" align="center">
     <h1>Hello there! I'm Yegor</h1>
-    <h3>> Full Stack Developer<br>
-        > Status: Compiling...</h3>
+    <h3><span>&gt;</span> Full Stack Developer<br>
+        <span>&gt;</span> Status: Compiling...</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://vk.com/m__ega">
