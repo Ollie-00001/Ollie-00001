@@ -1,19 +1,10 @@
 #
-<style>
-    #header h3 {
-        display: inline-block;
-        text-align: left;
-        line-height: 1.5;
-    }
-    #header h3 span {
-        display: inline-block;
-        width: 1ch; /* Фиксированная ширина для стрелки */
-    }
-</style>
 <div id="header" align="center">
     <h1>Hello there! I'm Yegor</h1>
-    <h3><span>&gt;</span> Full Stack Developer<br>
-        <span>&gt;</span> Status: Compiling...</h3>
+    <h3 style="text-align: center;">
+        <span style="display: inline-block;">&gt; Full Stack Developer</span><br>
+        <span style="display: inline-block;">&gt; Status: Compiling...</span>
+    </h3>
 </div>
 <div id="socials" align="center">
     <a href="https://vk.com/m__ega">
