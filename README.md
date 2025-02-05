@@ -1,6 +1,8 @@
-# Hello there! I'm Yegor
-<h3 align="center">&gt; Full Stack Developer</h3>
-<h3 align="center">&gt; Status: Compiling...</h3>
+#
+<div id="header" align="center">
+    <h1>Hello there! I'm Yegor</h1>
+    <h3 align="center">&gt; Full Stack Developer</h3>
+    <h3 align="center">&gt; Status: Compiling...</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://vk.com/m__ega">
