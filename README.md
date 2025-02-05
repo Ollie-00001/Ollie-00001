@@ -1,4 +1,15 @@
 #
+<style>
+    #header h3 {
+        display: inline-block;
+        text-align: left;
+        line-height: 1.5;
+    }
+    #header h3 span {
+        display: inline-block;
+        width: 1ch; /* Фиксированная ширина для стрелки */
+    }
+</style>
 <div id="header" align="center">
     <h1>Hello there! I'm Yegor</h1>
     <h3><span>&gt;</span> Full Stack Developer<br>
