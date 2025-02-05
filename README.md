@@ -1,7 +1,8 @@
 #
 <div id="header" align="center">
     <h1>Hello there! I'm Yegor</h1>
-    <h3>Just a beginner web developer from Tomsk</h3>
+    <h3>> Full Stack Developer<br>
+        > Status: Compiling...</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://vk.com/m__ega">
