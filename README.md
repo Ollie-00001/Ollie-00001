@@ -11,7 +11,7 @@
 </div>
 
 ### About me
-- 🔭 I’m currently working on a photographer website project
+- 🔭 I’m currently working on a telegram bot for OZON
 - 🌱 I’m currently learning Django
 - 🌎 I speak Russian and English
 - ⚡ Fun fact: I have got a cat and his name is 馒头 (Steamed Bun)
